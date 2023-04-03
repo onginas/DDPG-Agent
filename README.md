@@ -3,7 +3,7 @@ Udacity Deep Reinforcement Learning Nanodegree Program - implementation of Deep 
 
 
 ### Observations:
-- There's <b>Rerpot.ipynb</b> file for jupyter notebook execution where is described and showed the implementation of DDPG Agent
+- There's <b>Report.ipynb</b> file for jupyter notebook execution where is described and showed the implementation of DDPG Agent
 - If you are not using a Windows environment, you will follow instruction on this [webpage](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control)
 - The <b>DDPG_agent.model</b> saved the model with the best average score over all twenty agents
 - The necessary python files are below. There's necessary to keep all these files in current workdir
