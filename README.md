@@ -8,22 +8,22 @@ Udacity Deep Reinforcement Learning Nanodegree Program - implementation of Deep 
 - The <b>DDPG_agent.model</b> saved the model with the best average score over all twenty agents
 - The necessary python files are below. There's necessary to keep all these files in current workdir
 	* network_utils.py
-		*utilities for neural network
+		* utilities for neural network
 	
 	* network_body.py
-		*files with classes for Fully Connected Neural Network or Dummy Body
+		* files with classes for Fully Connected Neural Network or Dummy Body
 	
 	* network_heads.py
-		*file with critic and actor neural network with function for prediction for Q_values or action
+		* file with critic and actor neural network with function for prediction for Q_values or action
 	
 	* agent_based.py
 		* file with base function for each agent
 	
 	* DDPG_agent.py
-		*file with DDPG Agent with functions
+		* file with DDPG Agent with functions
 	
 	* randomProcess.py
-		*file with Orstein-Uhlenbeck process for adding noise
+		* file with Orstein-Uhlenbeck process for adding noise
 
 ### Requeriments:
 - tensorflow==1.7.1
